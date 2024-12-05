@@ -1,0 +1,23 @@
+{
+  "name": "financial-advisor",
+  "version": "1.0.0",
+  "description": "Financial Advisor API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emincankarasoy/financial-advisor.git"
+  },
+  "keywords": [
+    "financial",
+    "advisor"
+  ],
+  "author": "Emincan Karasoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emincankarasoy/financial-advisor/issues"
+  },
+  "homepage": "https://github.com/emincankarasoy/financial-advisor#readme"
+}
